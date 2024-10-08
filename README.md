@@ -1,2 +1,4 @@
 # fatigue-life-prediction
-fatigue life prediction model for stud shear connector
+This repository contains the data that correspond to the manuscript "Fatigue Life Prediction Model for Stud Shear Connectors Based on Machine Learning"
+
+Paper: 
